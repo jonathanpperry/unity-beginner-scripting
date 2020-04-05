@@ -3,6 +3,10 @@ using System.Collections;
 
 public class ExampleBehaviorScript : MonoBehaviour
 {
+    private void Awake()
+    {
+        GetComponent<Renderer>().material.color = Color.blue;
+    }
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.R))
