@@ -11,3 +11,7 @@ Build.apk
 BundleData.txt
 Library/metadata/
 
+.vs/
+Assembly-CSharp.csproj
+Build.app/
+obj/
