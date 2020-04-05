@@ -1,6 +1,6 @@
 UnityLockfile
 Library
-Temp
+Temp/
 Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
 Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll.meta
 obj/Debug/Assembly-CSharp-firstpass.dll
@@ -9,5 +9,5 @@ obj/Debug/build.force
 DesignTimeResolveAssemblyReferencesInput.cache
 Build.apk
 BundleData.txt
-
+Library/metadata/
 
