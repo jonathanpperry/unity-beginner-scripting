@@ -32,6 +32,6 @@ public class ScopeAndAccessModifiers : MonoBehaviour
 
     void Update()
     {
-        Debug.Log("Alpha is set to: " + alpha);
+        // Debug.Log("Alpha is set to: " + alpha);
     }
 }
