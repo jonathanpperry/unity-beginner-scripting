@@ -8,7 +8,7 @@ public class DestroyOther : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKey(KeyCode.A))
         {
             Destroy(other);
         }
